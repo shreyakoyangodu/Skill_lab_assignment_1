@@ -4,7 +4,7 @@
    - `npm install` in the project directory.
 
 1. **Start Server:**
-   - Execute `node app.js` in the project directory.
+   - Execute `npm start` or `nodemon app.js` in the project directory.
 
 2. **Open Postman:**
    - Launch the Postman application.
