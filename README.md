@@ -23,7 +23,7 @@
    - **Create New Blog:**
      - Method: POST
      - URL: `http://localhost:3000/blogs`
-     - Body (JSON): `{"title": "New Blog", "content": "Lorem ipsum..."}`
+     - Body (JSON): `{"authorId":1,"title": "New Blog", "content": "Lorem ipsum..."}`
 
    - **Retrieve All Blogs:**
      - Method: GET
